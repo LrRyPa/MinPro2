@@ -95,7 +95,7 @@ Pada menu no 1, admin dapat menambah username dan memberi skor untuk user terseb
 
 pada menu no 2, admin dapat melihat username serta skor yang diperoleh.
 
-### 3. Ubah nama skor
+### 3. Ubah nama user
 
 ![Screenshot 2024-10-15 005653](https://github.com/user-attachments/assets/f961519c-cc08-451e-976f-39cd6c141198)
 
