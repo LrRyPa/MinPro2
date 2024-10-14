@@ -16,7 +16,7 @@ Tema : Game tebak-tebakan (angka)
 
 Gambar diatas merupakan menu awal, yang meminta pengguna untuk memilih role (user atau admin) dan dapat memilih untuk keluar dari program
 
-### Penjelasan role padamenu login
+### Penjelasan role pada menu login
 1. Role admin dapat melakukan CRUD pada data user
 2. Role user hanya dapat menjalankan programnya
 
